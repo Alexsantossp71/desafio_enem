@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>desafio_enem — Banco de Questões ENEM</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 2rem; background: #0f172a; color: #e2e8f0; }
+    h1 { color: #38bdf8; }
+    a { color: #7dd3fc; }
+    .card { background: #1e293b; border-radius: 8px; padding: 1rem; margin: 0.5rem 0; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 0.5rem; }
+  </style>
+</head>
+<body>
+  <h1>📚 desafio_enem</h1>
+  <p>Banco de questões oficiais do ENEM (2009–2023). Dataset público em JSON para estudo e aplicativos de simulado.</p>
+  <div class="card">
+    <strong>Anos disponíveis:</strong>
+    <div class="grid" id="anos"></div>
+  </div>
+  <script>
+    const anos = [2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023];
+    document.getElementById('anos').innerHTML = anos.map(a => `<div>${a}</div>`).join('');
+  </script>
+</body>
+</html>
