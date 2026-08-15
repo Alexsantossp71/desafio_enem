@@ -76,11 +76,11 @@ Página de apresentação para contratantes, recrutadores e parceiros técnicos.
 - **Live:** https://alexsantossp71.github.io/fazcartaz/
 - **Status:** Profissional (10/10) — docs, changelog, .env.
 
-### 11. projeto-site — Portfólio Pessoal (HTML / CSS / JS)
-- **O que faz:** Portfólio que busca os repositórios diretamente da API do GitHub.
-- **Para que serve:** Apresentação profissional de projetos e tecnologias.
-- **Código:** https://github.com/Alexsantossp71/projeto-site
-- **Live:** https://alexsantossp71.github.io/projeto-site/
+### 11. alexandre-ramos-portfolio — Portfólio Pessoal (HTML / CSS / JS)
+- **O que faz:** Portfólio pessoal com projetos, tecnologias e contato.
+- **Para que serve:** Apresentação profissional de projetos e habilidades.
+- **Código:** https://github.com/Alexsantossp71/alexandre-ramos-portfolio
+- **Live:** https://alexsantossp71.github.io/alexandre-ramos-portfolio/
 - **Status:** Profissional (10/10).
 
 ### 12. enem_biologia — Biologia para o ENEM (HTML)
