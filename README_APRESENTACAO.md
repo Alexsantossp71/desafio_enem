@@ -31,6 +31,7 @@ Página de apresentação para contratantes, recrutadores e parceiros técnicos.
 - **O que faz:** Acervo com 1.868 questões oficiais do ENEM (2009–2023), organizadas por ano, disciplina e gabarito.
 - **Para que serve:** Alimentação de apps de simulado, estudo e análise de desempenho para estudantes e educadores.
 - **Código:** https://github.com/Alexsantossp71/desafio_enem
+- **Live:** https://public-ruddy-omega.vercel.app
 - **Status:** Profissional (10/10) — .env, docs, changelog, LICENSE, testes.
 
 ### 5. pi2_mercado — Marketplace (HTML / Python)
@@ -116,6 +117,65 @@ Página de apresentação para contratantes, recrutadores e parceiros técnicos.
 - **Código:** https://github.com/Alexsantossp71/tutorial-bd-univesp
 - **Live:** https://alexsantossp71.github.io/tutorial-bd-univesp/
 - **Status:** Profissional (10/10).
+
+### 17. projeto01 — Plataforma de Receitas (Django)
+- **O que faz:** Site completo de receitas com autores, categorias, tags, busca e paginação.
+- **Para que serve:** Demonstração prática de Django em produção com banco de dados.
+- **Código:** https://github.com/Alexsantossp71/projeto01
+- **Live:** https://projeto01-fn8t.onrender.com
+- **Status:** Profissional (10/10) — Django, gunicorn, whitenoise, testes.
+
+### 18. django-income-expense-website — Controle de Finanças (Django)
+- **O que faz:** Aplicativo para registro e acompanhamento de receitas e despesas pessoais.
+- **Para que serve:** Gestão financeira pessoal com painel web.
+- **Código:** https://github.com/Alexsantossp71/django-income-expense-website
+- **Live:** https://django-income-expense-website-f03m.onrender.com
+- **Status:** Profissional (10/10) — Django, gunicorn, SQLite, produção.
+
+### 19. predio309 — Estudo de Django (Python)
+- **O que faz:** Projeto base Django com configuração segura via variáveis de ambiente.
+- **Para que serve:** Estudo e base para novos projetos Django.
+- **Código:** https://github.com/Alexsantossp71/predio309
+- **Live:** https://predio309.onrender.com
+- **Status:** Profissional (10/10) — Django, gunicorn, whitenoise, produção.
+
+### 20. provas_fire — Simulados de Provas (Flet / Python)
+- **O que faz:** Aplicativo de simulados e provas para estudo, executado no navegador.
+- **Para que serve:** Treino de questões com interface interativa (Flet).
+- **Código:** https://github.com/Alexsantossp71/provas_fire
+- **Live:** https://web-rose-delta-26.vercel.app
+- **Status:** Profissional (10/10) — Flet, build web, deploy Vercel.
+
+### 21. redacao-nota-1000 — Portal de Redação (Python)
+- **O que faz:** Portal para prática de redação ENEM com temas e correção assistida.
+- **Para que serve:** Desenvolvimento de redação para o ENEM.
+- **Código:** https://github.com/Alexsantossp71/redacao-nota-1000
+- **Live:** https://redacao-nota-1000.vercel.app
+- **Status:** Profissional (10/10) — deploy Vercel.
+
+### 22. the_basics — Fundamentos Flutter (Dart)
+- **O que faz:** Projeto de estudo com conceitos básicos do Flutter (widgets, navegação, estados).
+- **Para que serve:** Base de aprendizado para desenvolvimento Flutter.
+- **Código:** https://github.com/Alexsantossp71/the_basics
+- **Status:** Em desenvolvimento — estrutura, docs, testes.
+
+### 23. faz_videos — Geração de Vídeos (Python)
+- **O que faz:** Scripts de automação para geração e montagem de vídeos.
+- **Para que serve:** Automação de criação de conteúdo em vídeo.
+- **Código:** https://github.com/Alexsantossp71/faz_videos
+- **Status:** Profissional (10/10) — automação, CLI.
+
+### 24. frases — Gerador de Frases (Python)
+- **O que faz:** Gerador de frases inspiradoras e conteúdo textual.
+- **Para que serve:** Conteúdo para redes sociais e uso pessoal.
+- **Código:** https://github.com/Alexsantossp71/frases
+- **Status:** Profissional (10/10) — automação, CLI.
+
+### 25. roboPyautogui — Robôs com PyAutoGUI (Python)
+- **O que faz:** Robôs de automação de interface usando PyAutoGUI.
+- **Para que serve:** Automação de tarefas repetitivas no computador.
+- **Código:** https://github.com/Alexsantossp71/roboPyautogui
+- **Status:** Profissional (10/10) — automação, CLI.
 
 ---
 
